@@ -1,0 +1,11 @@
+{
+  "name": "Radios libres España",
+  "short_name": "Radios libres",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b0f17",
+  "theme_color": "#0b0f17",
+  "lang": "es",
+  "description": "Emisoras de radio de España para móvil y escritorio",
+  "icons": []
+}
