@@ -43,3 +43,23 @@ Si alguna radio deja de sonar:
 Todo este flujo puede hacerse gratis usando:
 - GitHub Free
 - GitHub Pages
+
+
+## Cambios incluidos en este paquete
+
+- Optimización visual para móvil
+- Tema día/noche con botón emoji y persistencia
+- Pestaña de favoritas ⭐ delante de “Todas”
+- Las favoritas se guardan en el navegador
+- Eliminadas las etiquetas redundantes de categoría en cada emisora
+- Eliminado el texto secundario de cabecera
+- Eliminado el botón aleatorio
+
+## Subida rápida a GitHub Pages
+
+1. Sube el contenido de esta carpeta a la raíz del repositorio.
+2. Mantén `index.html`, `manifest.webmanifest` y `sw.js` en la raíz.
+3. En GitHub: **Settings > Pages**.
+4. En **Build and deployment**, elige **Deploy from a branch**.
+5. Selecciona tu rama principal y la carpeta **/root**.
+6. Guarda y espera a que GitHub publique la web.
